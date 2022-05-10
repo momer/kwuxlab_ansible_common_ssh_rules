@@ -1,0 +1,12 @@
+---
+
+#
+# Role-speciifc configuration
+#
+
+# Role:
+#   name: `devsec.hardening.ssh_hardening`
+#   source: https://github.com/dev-sec/ansible-collection-hardening/tree/master/roles/ssh_hardening
+
+# Enable SFTP for ansible
+target_sftp_enabled: true
